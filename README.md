@@ -1,24 +1,28 @@
-# README
+# MaMoney 
+<img src="app/assets/images/mamoney.png" width="300" height="300">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a application build to controll my money (I doubt), and don't spent all in beer and candies. So, if you want, you can use as well. Contributions are wellcome.
 
-Things you may want to cover:
+## What we have:
+- [x] Logo
 
+## What we don't have:
+- [ ] Everything else.
+
+## What we want:
+- [ ] Users authentication
+- [ ] Users resources of money
+- [ ] Spending
+- [ ] Charts (Yes! we do)
+
+## Dependencies
 * Ruby version
+`ruby 2.5.1`
 
-* System dependencies
+## Setup
 
-* Configuration
+## How to Use
 
-* Database creation
+## How to run the test suite
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## How to Deploy
