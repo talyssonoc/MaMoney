@@ -1,7 +1,7 @@
 # MaMoney 
 <img src="app/assets/images/mamoney.png" width="300" height="300">
 
-This is a application build to controll my money (I doubt), and don't spent all in beer and candies. So, if you want, you can use as well. Contributions are wellcome.
+This is an application built to control my money (I doubt it) instead of spending it all in beer and candies. So, if you want to, you can use it as well. Contributions are welcome, including money.
 
 ## What we have:
 - [x] Logo
@@ -13,7 +13,8 @@ This is a application build to controll my money (I doubt), and don't spent all 
 - [ ] Users authentication
 - [ ] Users resources of money
 - [ ] Spending
-- [ ] Charts (Yes! we do)
+- [ ] Charts (Yes! We do)
+- [ ] Money
 
 ## Dependencies
 * Ruby version
